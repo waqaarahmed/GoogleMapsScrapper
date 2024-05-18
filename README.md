@@ -10,3 +10,25 @@ The Google Maps Review Scraper is a Python script that automates the process of 
 - Customizable: Allows the user to specify the number of reviews to scrape and the Google Maps link from which to scrape.
 - Robust Error Handling: Includes error handling mechanisms to gracefully handle exceptions during the scraping process.
 - CSV Output: Outputs the scraped review data to a CSV file for easy analysis and storage.
+
+## Technologies Used
+
+### Python: 
+
+Core programming language for developing the scraper.
+
+### Selenium WebDriver: 
+
+Web automation framework used to interact with the Google Maps web interface.
+
+### Chrome Driver: 
+
+Web driver for automating Google Chrome browser actions.
+
+### CSV Module: 
+
+Python module for reading and writing CSV files.
+
+### WebDriverWait: 
+
+Selenium utility for waiting until certain conditions are met before proceeding with script execution.
