@@ -32,3 +32,13 @@ Python module for reading and writing CSV files.
 ### WebDriverWait: 
 
 Selenium utility for waiting until certain conditions are met before proceeding with script execution.
+
+## Setup and Usage
+
+- Install Dependencies: Ensure you have Python installed on your system, as well as the necessary Python packages specified in the requirements.txt file.
+
+- Download Chrome Driver: Download the Chrome Driver compatible with your Chrome browser version and place it in your system's PATH.
+
+- Run the Script: Execute the reviews_scrapper.py script and follow the prompts to enter the Google Maps link and the number of reviews to scrape.
+
+- View Output: Once the scraping process is complete, review data will be saved to a CSV file named reviews.csv in the script directory.
