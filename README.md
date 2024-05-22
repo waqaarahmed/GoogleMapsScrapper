@@ -42,3 +42,10 @@ Selenium utility for waiting until certain conditions are met before proceeding 
 - Run the Script: Execute the reviews_scrapper.py script and follow the prompts to enter the Google Maps link and the number of reviews to scrape.
 
 - View Output: Once the scraping process is complete, review data will be saved to a CSV file named reviews.csv in the script directory.
+
+
+## Customization
+
+- Modify Scraping Parameters: Adjust the number of reviews to scrape and the Google Maps link to target specific listings or locations.
+
+- Enhance Error Handling: Extend error handling mechanisms to handle additional edge cases or unexpected behavior during scraping.
