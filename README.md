@@ -49,3 +49,9 @@ Selenium utility for waiting until certain conditions are met before proceeding 
 - Modify Scraping Parameters: Adjust the number of reviews to scrape and the Google Maps link to target specific listings or locations.
 
 - Enhance Error Handling: Extend error handling mechanisms to handle additional edge cases or unexpected behavior during scraping.
+
+## Maintenance
+
+- Update Dependencies: Periodically check for updates to Selenium WebDriver and Chrome Driver to ensure compatibility with the latest browser versions.
+
+- Monitor Google Maps Changes: Keep an eye on changes to the Google Maps interface that may impact the scraping process, and make necessary adjustments to the script.
